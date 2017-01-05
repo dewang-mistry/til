@@ -4,17 +4,26 @@ I try and learn something new everyday. This is a repo to share those learnings.
 
 ---
 
-## Categories
+## Topics
 
 - [Lifehacks](#lifehacks)
+- [Meta-learning](#meta-learning)
 - [Productivity](#productivity)
-- Web Development
+- [Web Development](#web-development)
  - [AngularJS](#angularjs)
 
 
 ## Lifehacks
 
+## Meta-learning
+
+- Spaced repitition
+- Start heard jump to easy
+- Exercise
+
 ## Productivity
+
+- [Paper based productivity systems](paper-based-productivity-systems.md)
 
 ## Web Development
 
