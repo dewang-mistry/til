@@ -17,7 +17,7 @@ I try and learn something new everyday. This is a repo to share those learnings.
 
 ## Meta-learning
 
-- Spaced repitition
+- Spaced repetition
 - Start heard jump to easy
 - Exercise
 
