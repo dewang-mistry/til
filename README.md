@@ -11,6 +11,7 @@ I try and learn something new everyday. This is a repo to share those learnings.
 - [Productivity](#productivity)
 - [Web Development](#web-development)
  - [AngularJS](#angularjs)
+- [Big Data](#big-data)
 
 
 ## Lifehacks
@@ -23,10 +24,16 @@ I try and learn something new everyday. This is a repo to share those learnings.
 
 ## Productivity
 
-- [Paper based productivity systems](paper-based-productivity-systems.md)
+- [Paper based productivity systems](productivity/paper-based-productivity-systems.md)
 
 ## Web Development
 
 ### AngularJS
 
 - [Directives & how to use them](web_dev/defining-directives.md)
+
+## Big Data
+
+### Apache Hive
+
+- [Apache Hive commands cheat sheet](big_data/hive-cheatsheet.md)
