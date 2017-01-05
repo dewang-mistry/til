@@ -12,3 +12,12 @@ I try and learn something new everyday. This is a repo to share those learnings.
  - [AngularJS](#angularjs)
 
 
+## Lifehacks
+
+## Productivity
+
+## Web Development
+
+### AngularJS
+
+- [Directives & how to use them](web_dev/defining-directives.md)
